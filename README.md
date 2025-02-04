@@ -141,7 +141,7 @@ Estou sempre aberto a discutir novas oportunidades, colaborações ou compartilh
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvgottardo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
