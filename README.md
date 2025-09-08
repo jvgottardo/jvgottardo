@@ -106,11 +106,14 @@
 ---
 <!-- Adicionando detalhes de Projetos -->
 ### Projetos:
-- [Projeto de Controle de Estoque - TCC](https://github.com/allissonconsorte04/stocon-front-end) - Sistema de gestão de estoque com funcionalidades de cadastro, edição e controle de produtos. Integração com OCR e OpenAI para agilizar a inserção de dados. A aplicação é responsiva, com versões para web e mobile, e utiliza PostgreSQL para o banco de dados. Ideal para empresas que buscam otimizar o controle de produtos e movimentações de estoque.
+
 - [ShoowMe o Hub da Musica - Em desenvolvimento](https://shoowme.web.app/) - Plataforma que conecta artistas, realizadores de eventos e fãs. Permite a gestão de shows, contratação de artistas e compra de ingressos. Desenvolvida com React, TypeScript, Supabase e Tailwind CSS, oferece uma experiência fluida e eficiente para eventos ao vivo, com foco em facilitar o agendamento e gestão de shows.
 
 - [7DigitalTech](https://7digitaltech.com.br/) - Desenvolvimento de um site para a 7DigitalTech, uma empresa de tecnologia, com foco na apresentação de seus serviços e soluções inovadoras. A plataforma foi construída para ser moderna e responsiva, garantindo uma navegação intuitiva e informativa. Utilizou WordPress, HTML, CSS e JavaScript.
 
+- [Projeto LP-Discord](https://jvgottardo.github.io/LP-Discord/) - Landing Page inspirada no Discord, desenvolvida com HTML, CSS e JavaScript. O projeto tem foco em responsividade, acessibilidade e boas práticas de front-end, oferecendo uma interface moderna e interativa que se adapta a diferentes dispositivos.
+
+- [Projeto de Controle de Estoque - TCC](https://github.com/allissonconsorte04/stocon-front-end) - Sistema de gestão de estoque com funcionalidades de cadastro, edição e controle de produtos. Integração com OCR e OpenAI para agilizar a inserção de dados. A aplicação é responsiva, com versões para web e mobile, e utiliza PostgreSQL para o banco de dados. Ideal para empresas que buscam otimizar o controle de produtos e movimentações de estoque.
 ---
 <!-- Adicionando detalhes de Experiência Profissional -->
 ### Experiência Profissional:
