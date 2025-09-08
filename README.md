@@ -111,6 +111,8 @@
 
 - [7DigitalTech](https://7digitaltech.com.br/) - Desenvolvimento de um site para a 7DigitalTech, uma empresa de tecnologia, com foco na apresentação de seus serviços e soluções inovadoras. A plataforma foi construída para ser moderna e responsiva, garantindo uma navegação intuitiva e informativa. Utilizou WordPress, HTML, CSS e JavaScript.
 
+-[PokeDex-JS](https://jvgottardo.github.io/PokeDex-JS/) - Pokédex interativa desenvolvida como desafio do Bootcamp Front-end da DIO. Consome a PokéAPI para listar e exibir informações dos Pokémons, utilizando HTML, CSS e JavaScript. O projeto é totalmente responsivo e tem como foco a prática de consumo de APIs, manipulação do DOM e boas práticas de front-end.
+
 - [Projeto LP-Discord](https://jvgottardo.github.io/LP-Discord/) - Landing Page inspirada no Discord, desenvolvida com HTML, CSS e JavaScript. O projeto tem foco em responsividade, acessibilidade e boas práticas de front-end, oferecendo uma interface moderna e interativa que se adapta a diferentes dispositivos.
 
 - [Projeto de Controle de Estoque - TCC](https://github.com/allissonconsorte04/stocon-front-end) - Sistema de gestão de estoque com funcionalidades de cadastro, edição e controle de produtos. Integração com OCR e OpenAI para agilizar a inserção de dados. A aplicação é responsiva, com versões para web e mobile, e utiliza PostgreSQL para o banco de dados. Ideal para empresas que buscam otimizar o controle de produtos e movimentações de estoque.
