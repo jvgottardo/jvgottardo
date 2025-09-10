@@ -107,7 +107,7 @@
 <!-- Adicionando detalhes de Projetos -->
 ### Projetos:
 
-- [ShoowMe o Hub da Musica - Em desenvolvimento](https://shoowme.web.app/) - Plataforma que conecta artistas, realizadores de eventos e fãs. Permite a gestão de shows, contratação de artistas e compra de ingressos. Desenvolvida com React, TypeScript, Supabase e Tailwind CSS, oferece uma experiência fluida e eficiente para eventos ao vivo, com foco em facilitar o agendamento e gestão de shows.
+- [ShoowMe o Hub da Musica - Em desenvolvimento]([https://shoowme.web.app/](https://youtu.be/SepLlsueON8)) - Plataforma que conecta artistas, realizadores de eventos e fãs. Permite a gestão de shows, contratação de artistas e compra de ingressos. Desenvolvida com React, TypeScript, Supabase e Tailwind CSS, oferece uma experiência fluida e eficiente para eventos ao vivo, com foco em facilitar o agendamento e gestão de shows.
 
 - [7DigitalTech](https://7digitaltech.com.br/) - Desenvolvimento de um site para a 7DigitalTech, uma empresa de tecnologia, com foco na apresentação de seus serviços e soluções inovadoras. A plataforma foi construída para ser moderna e responsiva, garantindo uma navegação intuitiva e informativa. Utilizou WordPress, HTML, CSS e JavaScript.
 
