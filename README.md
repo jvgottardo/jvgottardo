@@ -119,7 +119,7 @@
 ---
 <!-- Adicionando detalhes de Experiência Profissional -->
 ### Experiência Profissional:
-- [Shoow Me - O Hub da Música (Mar 2024 - Atualmente)](https://shoowme.web.app/) -
+- [Shoow Me - O Hub da Música (Mar 2024 - Atualmente)](https://youtu.be/SepLlsueON8) -
 Desenvolvimento de aplicação web e mobile utilizando WordPress, PHP, HTML, CSS, JavaScript, React Native, SQL, React, Vue, ShadCn, Tailwind CSS e Supabase. Responsável pela organização da equipe e atividades do projeto, oferecendo contribuições relevantes para o andamento da plataforma.
 - [7 Digital Tech - Soluções Digitais LTDA (Jun 2022 - Dez 2023)](https://7digitaltech.com.br/) - Atuação no desenvolvimento e manutenção de soluções de software com WordPress, HTML5, CSS3, PHP, Bootstrap, MySQL, React Native e JavaScript. Além disso, prestando suporte a clientes, entendendo suas necessidades e oferecendo soluções técnicas eficientes, melhorando a comunicação e a experiência do cliente.
 ---
